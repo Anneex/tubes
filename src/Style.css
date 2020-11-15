@@ -1,4 +1,4 @@
-body{
+body {
     margin: 0px;
     padding: 0px;
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
@@ -7,7 +7,7 @@ body{
 
 /*Tags param*/
 
-p{
+p {
     margin: 5px;
 }
 
@@ -19,10 +19,12 @@ a {
 h2 {
     font-size: 45px;
 }
+
 h3 {
     font-size: 25px;
     color: white;
 }
+
 h4 {
     font-size: 17px;
     color: white;
@@ -32,7 +34,8 @@ h4 {
 .w-83 {
     width: 83%;
 }
-.h-70{
+
+.h-70 {
     height: 70px;
 }
 
@@ -44,12 +47,15 @@ h4 {
 .fl-l {
     float: left;
 }
+
 .fl-r {
     float: right;
 }
+
 .dplay-f {
     display: flex;
 }
+
 .marg-t {
     margin-top: 30px;
 }
@@ -60,7 +66,7 @@ b-col-w {
 
 /*Personal param*/
 
-.header{
+.header {
     height: 44px;
 }
 
@@ -99,18 +105,19 @@ b-col-w {
     margin-right: 15px;
 }
 
-.line{
+.line {
     height: 1px;
     opacity: 0.36;
     box-shadow: -0.1px 1px 3px 0px rgba(0, 0, 0, 0.23);
     background-color: #303030;
 }
 
-.fusion-header{
+.fusion-header {
     height: 90px;
     padding: 40px 0px;
 
 }
+
 .fusion-row {
     display: flex;
 }
@@ -123,7 +130,8 @@ b-col-w {
     height: 100%;
     float: left;
 }
-.search{
+
+.search {
     height: 68px;
     padding-top: 11px;
     margin-left: 10px;
@@ -131,7 +139,7 @@ b-col-w {
 
 }
 
-.search input{
+.search input {
     height: 45px;
     width: 50%;
     float: left;
@@ -141,13 +149,14 @@ b-col-w {
     border: solid 0.1px #595959;
 }
 
-.search button{
+.search button {
     height: 45px;
     font-size: 18px;
     background: white;
     border-radius: 2px;
     border: solid 0.1px #595959;
 }
+
 .search button img {
     height: 100%;
 }
@@ -155,6 +164,7 @@ b-col-w {
 .cart {
     flex: 1 1 10%;
 }
+
 .cart_border {
     border-radius: 4px;
     border: solid 0.1px #595959;
@@ -162,15 +172,17 @@ b-col-w {
     width: 195px;
     margin-left: 62px;
 }
-.cart-row{
+
+.cart-row {
     font-size: 15px;
     padding: 10% 5px;
 }
+
 .cart a {
     padding-right: 8px;
 }
 
-.cart img{
+.cart img {
     height: 50%;
     margin: 10% 5px;
 }
@@ -235,9 +247,11 @@ b-col-w {
 
 
 }
+
 .img-prod img {
     width: 100%;
 }
+
 .cat-prod p {
     text-align: center;
     font-weight: bold;
@@ -246,21 +260,23 @@ b-col-w {
 
 .button {
     margin-top: 100px;
-    height: 500px;
+    height: 450px;
     background-color: #595959;
     display: flex;
 }
+
 .button > div {
     margin: 100px 5%;
     width: 294px;
-    height: 300px;
     font-size: 15px;
     text-align: left;
     flex: 1 1 10%;
 }
+
 .button > div:nth-child(4) {
     flex: 1 1 14%;
 }
+
 .button div li {
     display: flex;
     padding-top: 5px;
@@ -270,6 +286,7 @@ b-col-w {
     color: white;
     padding-top: 10px;
 }
+
 .button img {
     padding: 3% 5%;
 }
