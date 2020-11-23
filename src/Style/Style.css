@@ -169,7 +169,7 @@ b-col-w {
     border-radius: 4px;
     border: solid 0.1px #595959;
     padding: 0px 5px;
-    width: 195px;
+    width: 200px;
     margin-left: 62px;
 }
 
@@ -217,7 +217,7 @@ b-col-w {
 
 .advertising {
     height: 595px;
-    background: url("img/ups_print_campaign_contract_aotw.jpg") no-repeat;
+    background: url("../img/ups_print_campaign_contract_aotw.jpg") no-repeat;
     background-position: center;
     background-size: 100%;
 }
@@ -290,3 +290,4 @@ b-col-w {
 .button img {
     padding: 3% 5%;
 }
+
