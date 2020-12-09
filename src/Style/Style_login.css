@@ -147,4 +147,7 @@ a {
     }
 }
 
+.checkout-page__link a {
+    color: black;
+}
 

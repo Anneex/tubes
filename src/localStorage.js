@@ -12,3 +12,4 @@ save.onclick = () => {
     localStorage.setItem('email', JSON.stringify(emailLocalInfo));
     localStorage.setItem('pass', JSON.stringify(passLocalInfo));
 }
+
