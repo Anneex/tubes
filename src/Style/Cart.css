@@ -4100,7 +4100,7 @@ input[type=email], input[type=number], input[type=password], input[type=text] {
 }
 
 .checkout-product-list-item__quantity span {
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
 /*Pay*/
